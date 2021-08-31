@@ -23,6 +23,7 @@ export default function Contact() {
       );
     e.target.reset();
   }
+
   return (
     <>
       <div className="contactBackground">

@@ -12,23 +12,25 @@ export default function About() {
       <div className="about-container">
         <h1>ABOUT ME</h1>
         <p>
-          My name is Nixon Pastor and I am currently a Junior majoring in
+          My name is Nixon Pastor and I am currently a Senior majoring in
           Computer Science at St. Mary's University in San Antonio, Texas! My
           hometown is Phoenix, Arizona but my passion for coding and technology
           has led me to study Computer Science in San Antonio. Ever since taking
           my first programming course in college, I have always been eager to
-          learn and develop new applications.
+          learn and develop new applications. I have interned at Oracle as a
+          Software Engineer Intern and have put my web development skills to the
+          test! I have also interned at Early Warning Services as a Software
+          Engineer Intern and worked on the Zelle Android application. I love
+          programming and I hope to continue to learn more!
         </p>
         <p>
-          I have experience building applications in Java, C++, and C. On my
-          free time, I like to learn new languages and frameworks. I am
-          currently learning ReactJS and Javascript along with HTML and CSS. I
-          am also in the process of learning C# and SQL with Microsoft SQL
-          Server.
+          I have experience building applications in Java, C++, and JavaScript.
+          On my free time, I like to learn new languages and frameworks. I am
+          continuing to learn more about React, Javascript, HTML and CSS.
         </p>
         <p>
           Here is a copy of my{" "}
-          <a href="/images/Nixon-Pastor-Resume2020.docx" download>
+          <a href="/images/Nixon-Pastor-Resume-2021.docx" download>
             Resume
           </a>
           .
@@ -55,7 +57,7 @@ export default function About() {
             <li>Data Structures</li>
             <li>Files and Databases</li>
             <li>Systems Analysis and Design</li>
-            <li>Game Development</li>
+            <li>Software Engineering</li>
           </ul>
         </div>
       </div>
